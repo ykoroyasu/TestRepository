@@ -1,3 +1,5 @@
-abcede
-testtest
-testtesttest
+@echo off
+
+echo "hello world"
+
+pause
