@@ -1,5 +1,5 @@
 @echo off
 
 echo "hello world"
-
+echo "bye world"
 pause
